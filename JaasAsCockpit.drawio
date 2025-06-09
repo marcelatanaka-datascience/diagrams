@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Página-1" id="MmwrZXqq5R3Ojskw8vrE">
-    <mxGraphModel dx="4168" dy="2524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5210" dy="3155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,12 +327,6 @@
         </mxCell>
         <mxCell id="hI6CrV23GFSyIoWoNn_m-99" value="&lt;p data-end=&quot;403&quot; data-start=&quot;0&quot;&gt;Los módulos construidos dentro de Cockpit siempre deberán contar con las selecciones de organización, país y plataforma, ya que es a partir de estos “filtros” que el módulo sabrá qué presentar al usuario. Para llevar a cabo esta presentación, los módulos deberán consultar siempre el servicio de autorización de Cockpit para devolver qué permisos tiene un usuario y, de este modo, montar la experiencia.&lt;/p&gt;&lt;p data-end=&quot;190&quot; data-start=&quot;0&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p data-is-only-node=&quot;&quot; data-is-last-node=&quot;&quot; data-end=&quot;684&quot; data-start=&quot;405&quot;&gt;Por ejemplo, si un usuario tiene acceso solo a Advisor, dentro de un módulo de Productos el selector de plataformas de ese usuario deberá mostrar únicamente Advisor. En cambio, si un usuario tiene acceso a Advisor, Premia y Juntos, entonces deberán mostrarse todas esas opciones.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1853" y="2700" width="420" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="hI6CrV23GFSyIoWoNn_m-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.358;entryY=0.664;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1339.6625000000006" y="2761" as="sourcePoint" />
-            <mxPoint x="1350.84806" y="2753.6079999999997" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
