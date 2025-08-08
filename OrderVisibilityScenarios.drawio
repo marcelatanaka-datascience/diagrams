@@ -250,9 +250,6 @@
             <mxPoint x="740" y="715.0000000000009" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pt1CYxI9YCP_ZI2bPCuh-100" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1380" width="430" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Pt1CYxI9YCP_ZI2bPCuh-101" value="&lt;span style=&quot;color: rgb(33, 110, 78); font-family: &amp;quot;Atlassian Mono&amp;quot;, ui-monospace, Menlo, &amp;quot;Segoe UI Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; text-align: start; white-space: pre; background-color: rgba(5, 21, 36, 0.06);&quot;&gt;5c7f7275-874e-4f97-961e-7737ec9a7a0i&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="705" width="60" height="30" as="geometry" />
         </mxCell>
