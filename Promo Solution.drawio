@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
   <diagram name="Página-1" id="a5rc6l0APtxZ6rSmaDwm">
-    <mxGraphModel dx="1502" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
         <mxCell id="mtaF9fKcRwbSf19sw3Pu-8" value="COCKPIT Promo Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="600" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mtaF9fKcRwbSf19sw3Pu-9" value="SOLUTION ARCHITECTURE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-9" value="DECISION TREE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1040" y="520" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mtaF9fKcRwbSf19sw3Pu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="1" source="mtaF9fKcRwbSf19sw3Pu-10" target="mtaF9fKcRwbSf19sw3Pu-12">
@@ -126,6 +126,52 @@
         </mxCell>
         <mxCell id="mtaF9fKcRwbSf19sw3Pu-13" value="Core&amp;amp;OPS Solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="960" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-19" value="ARCHITECTURE SOLUTION - GET Promos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="520" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mtaF9fKcRwbSf19sw3Pu-20" target="mtaF9fKcRwbSf19sw3Pu-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-20" value="COCKPIT Promo Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="600" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mtaF9fKcRwbSf19sw3Pu-21" target="mtaF9fKcRwbSf19sw3Pu-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-21" value="UNIFIED CONTRACTS&lt;br&gt;(GET)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="720" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mtaF9fKcRwbSf19sw3Pu-23" target="mtaF9fKcRwbSf19sw3Pu-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-29" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtaF9fKcRwbSf19sw3Pu-27">
+          <mxGeometry x="-0.2457" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mtaF9fKcRwbSf19sw3Pu-23" target="mtaF9fKcRwbSf19sw3Pu-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-30" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtaF9fKcRwbSf19sw3Pu-28">
+          <mxGeometry x="-0.3165" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-23" value="Is country enabled on Core&amp;amp;Ops?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="840" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mtaF9fKcRwbSf19sw3Pu-25" target="mtaF9fKcRwbSf19sw3Pu-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-25" value="Core&amp;amp;Ops Adapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1020" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-26" value="EDB Adapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1895" y="1020" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-31" value="Core&amp;amp;Ops PROMOS APIs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1180" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
