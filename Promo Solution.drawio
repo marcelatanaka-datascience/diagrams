@@ -96,8 +96,8 @@
         <mxCell id="mtaF9fKcRwbSf19sw3Pu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mtaF9fKcRwbSf19sw3Pu-8" target="mtaF9fKcRwbSf19sw3Pu-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mtaF9fKcRwbSf19sw3Pu-8" value="COCKPIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="600" width="320" height="80" as="geometry" />
+        <mxCell id="mtaF9fKcRwbSf19sw3Pu-8" value="COCKPIT Promo Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="600" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mtaF9fKcRwbSf19sw3Pu-9" value="SOLUTION ARCHITECTURE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1040" y="510" width="320" height="40" as="geometry" />
