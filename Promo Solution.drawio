@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
   <diagram name="Página-1" id="a5rc6l0APtxZ6rSmaDwm">
-    <mxGraphModel dx="976" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
           <mxGeometry x="1080" y="600" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mtaF9fKcRwbSf19sw3Pu-9" value="SOLUTION ARCHITECTURE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="510" width="320" height="40" as="geometry" />
+          <mxGeometry x="1040" y="520" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mtaF9fKcRwbSf19sw3Pu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="1" source="mtaF9fKcRwbSf19sw3Pu-10" target="mtaF9fKcRwbSf19sw3Pu-12">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mtaF9fKcRwbSf19sw3Pu-10" value="Is country enabled on Core&amp;amp;Ops?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="760" width="160" height="140" as="geometry" />
+          <mxGeometry x="1120" y="720" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="mtaF9fKcRwbSf19sw3Pu-12" value="Legacy EDB Solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="960" width="150" height="80" as="geometry" />
