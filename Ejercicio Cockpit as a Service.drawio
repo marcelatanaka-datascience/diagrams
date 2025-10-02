@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="Wu7hwuElQsuPuDVvXg_v">
+    <mxGraphModel dx="1097" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fRw4ySLKxj_TL49dyoCy-1" value="Opción 1 - Construir un Cockpit nuevo específico para as a Service" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fRw4ySLKxj_TL49dyoCy-2" value="Opción 2 - Espejo de Cockpit con ajustes" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fRw4ySLKxj_TL49dyoCy-3" value="840k" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fRw4ySLKxj_TL49dyoCy-4" value="&lt;ol&gt;&lt;li&gt;Replicar la parte Core de Cockpit&lt;/li&gt;&lt;li&gt;Desarrollo de todos los módulos desde cero como un producto 100% diferente (esto incluye los módulos específicos)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRw4ySLKxj_TL49dyoCy-5" value="&lt;ol&gt;&lt;li&gt;Replicar la parte Core de Cockpit&lt;/li&gt;&lt;li&gt;Replicar todos los módulos desde cero&lt;/li&gt;&lt;li&gt;Replicar todo el código&lt;/li&gt;&lt;li&gt;Adicionar modulos específicos&lt;/li&gt;&lt;li&gt;Ajuste de estructura de escrita de datos (backend)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fRw4ySLKxj_TL49dyoCy-6" value="Opción 3 - Cockpit Unificado" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fRw4ySLKxj_TL49dyoCy-8" value="840k" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fRw4ySLKxj_TL49dyoCy-9" value="Mantenimiento futuro:&lt;div&gt;Cómo mantener el desarrollo paralelo de los dos Cockpits para mantener consistencia de features?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="250" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
