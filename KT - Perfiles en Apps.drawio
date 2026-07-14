@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="5Ha0VJRsXlTUamyBBpOB">
+    <mxGraphModel dx="1414" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CyZOf9UjEwp5g39C63hI-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Base de datos SFA" vertex="1">
+          <mxGeometry height="80" width="80" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-3" edge="1" parent="1" source="CyZOf9UjEwp5g39C63hI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CyZOf9UjEwp5g39C63hI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Cockpit" vertex="1">
+          <mxGeometry height="80" width="80" x="160" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Crea el usuario" vertex="1">
+          <mxGeometry height="30" width="70" x="120" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-10" edge="1" parent="1" source="CyZOf9UjEwp5g39C63hI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CyZOf9UjEwp5g39C63hI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="B2C" vertex="1">
+          <mxGeometry height="80" width="80" x="420" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-8" edge="1" parent="1" source="CyZOf9UjEwp5g39C63hI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CyZOf9UjEwp5g39C63hI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Advisor" vertex="1">
+          <mxGeometry height="80" width="80" x="680" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-13" edge="1" parent="1" source="CyZOf9UjEwp5g39C63hI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CyZOf9UjEwp5g39C63hI-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Datos obligatorios" vertex="1">
+          <mxGeometry height="30" width="70" x="210" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Consulta datos de telefono y nombre del preventa" vertex="1">
+          <mxGeometry height="30" width="110" x="540" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Busca las informaciones y crea el usuario B2C del preventa" vertex="1">
+          <mxGeometry height="30" width="140" x="260" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-16" edge="1" parent="1" source="CyZOf9UjEwp5g39C63hI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CyZOf9UjEwp5g39C63hI-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Id de preventa&lt;br&gt;telefono&amp;nbsp;&lt;br&gt;Permite hacer el login" vertex="1">
+          <mxGeometry height="30" width="166" x="314" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Para entrar por primera vez no necesita telefono, pero para la segunda vez se guarda el telefono y se presenta en Cockpit" vertex="1">
+          <mxGeometry height="30" width="220" x="500" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="El telefono es importante para recuperación de contraseña" vertex="1">
+          <mxGeometry height="30" width="166" x="314" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-21" edge="1" parent="1" source="CyZOf9UjEwp5g39C63hI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CyZOf9UjEwp5g39C63hI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="En este momento solo Brasil lo está utilizando&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mexico está requerindo cambios para utilizarlo (Ver correo que envió Chris)&lt;br&gt;Disclaimer: toda la información extra que pide Mexico NO ES obligatória para que el prevendedor pueda utilizar Advisor.&lt;br&gt;&lt;br&gt;Ver la estimación de esfuerzo ya mapeada para los ajustes por Misa&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="280" x="40" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Las mejoras para Mexico ya está documentada en Confluence&lt;br&gt;&lt;br&gt;Hay que checar con Capacidades si se debe implementar el proximo PI.&lt;br&gt;Los ajustes aún no están en desarollo&lt;br&gt;&lt;br&gt;No se desarollo este PI por temas de capacity. La prioridad 0 fue Gestión de Rutas en el PI2" vertex="1">
+          <mxGeometry height="140" width="280" x="40" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Personas clave:&lt;br&gt;1. GM: Marcos Leuven&lt;br&gt;2. SMEs: &lt;br&gt;MX: Rodrigo Montoya, Alejandro Angulo&lt;br&gt;BR: Bruna Aparecida&lt;br&gt;CO: Edgar Blanco&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="240" x="400" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="CyZOf9UjEwp5g39C63hI-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Colombia: se hizo la presentación de Perfiles en Apps con las funcionalidades (ver ppt que Chris envió)&amp;nbsp;&lt;br&gt;&lt;br&gt;Aún no utiliza ningún módulo.&amp;nbsp;&lt;br&gt;&lt;br&gt;Para colombia no tiene estimación de fit gaps&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="240" x="400" y="690" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
